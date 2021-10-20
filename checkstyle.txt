@@ -1,0 +1,14 @@
+Starting audit...
+[ERROR] C:\Users\Vlad\Downloads\Fisiere\Facultate\Anul 2\tema2-poo\teme-project-phase1-2020\teme\proiect-etapa1\.\src\Consumer.java:20:40: Parameter distributorRestance should be final. [FinalParameters]
+[ERROR] C:\Users\Vlad\Downloads\Fisiere\Facultate\Anul 2\tema2-poo\teme-project-phase1-2020\teme\proiect-etapa1\.\src\Database.java:30:20: '9999' is a magic number. [MagicNumber]
+[ERROR] C:\Users\Vlad\Downloads\Fisiere\Facultate\Anul 2\tema2-poo\teme-project-phase1-2020\teme\proiect-etapa1\.\src\Database.java:30:24: ';' is not followed by whitespace. [WhitespaceAfter]
+[ERROR] C:\Users\Vlad\Downloads\Fisiere\Facultate\Anul 2\tema2-poo\teme-project-phase1-2020\teme\proiect-etapa1\.\src\Distributor.java:87:40: '0.2' is a magic number. [MagicNumber]
+[ERROR] C:\Users\Vlad\Downloads\Fisiere\Facultate\Anul 2\tema2-poo\teme-project-phase1-2020\teme\proiect-etapa1\.\src\ParticipantFactory.java:17:9: switch without "default" clause. [MissingSwitchDefault]
+[ERROR] C:\Users\Vlad\Downloads\Fisiere\Facultate\Anul 2\tema2-poo\teme-project-phase1-2020\teme\proiect-etapa1\.\src\SingletonSolver.java:123:53: '1.2' is a magic number. [MagicNumber]
+[ERROR] C:\Users\Vlad\Downloads\Fisiere\Facultate\Anul 2\tema2-poo\teme-project-phase1-2020\teme\proiect-etapa1\.\src\SingletonSolver.java:127:57: '1.2' is a magic number. [MagicNumber]
+[ERROR] C:\Users\Vlad\Downloads\Fisiere\Facultate\Anul 2\tema2-poo\teme-project-phase1-2020\teme\proiect-etapa1\.\src\SingletonSolver.java:132:59: '1.2' is a magic number. [MagicNumber]
+[ERROR] C:\Users\Vlad\Downloads\Fisiere\Facultate\Anul 2\tema2-poo\teme-project-phase1-2020\teme\proiect-etapa1\.\src\SingletonWriter.java:33:41: '3' is a magic number. [MagicNumber]
+[ERROR] C:\Users\Vlad\Downloads\Fisiere\Facultate\Anul 2\tema2-poo\teme-project-phase1-2020\teme\proiect-etapa1\.\src\SingletonWriter.java:42:39: '4' is a magic number. [MagicNumber]
+[ERROR] C:\Users\Vlad\Downloads\Fisiere\Facultate\Anul 2\tema2-poo\teme-project-phase1-2020\teme\proiect-etapa1\.\src\SingletonWriter.java:48:43: '3' is a magic number. [MagicNumber]
+Audit done.
+Checkstyle ends with 11 errors.
